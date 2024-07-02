@@ -1,0 +1,22 @@
+p{
+    color: aqua;
+}
+a{
+    color: rgb(33, 102, 162);
+}
+li{
+    list-style-type: square;
+}
+/*class selector*/
+.pa{
+    color: brown;
+    font-weight: bold;
+}
+/* attribute selector*/
+li [class]{
+    color: blueviolet;
+}
+/* universal selector*/
+*{
+    list-style: none;
+}

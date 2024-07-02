@@ -1,0 +1,36 @@
+nav a{
+    text-decoration: none;
+    color: rgb(219, 15, 209);
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+nav{
+    background-color: rgb(240, 251, 251);
+    overflow: hidden;
+
+}
+nav a:hover{
+    color: red;
+}
+nav a:visited{
+    color: aqua;
+}
+
+table,
+tr,
+th,
+td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+
+}
+th{
+    background-color: rgb(234, 131, 29);
+
+}
+td{
+    background-color: cornflowerblue;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100px;
+    height: 100px;
+} 
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(103, 131, 131);
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(24, 67, 206);
+}
+#box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(33, 210, 13);
+}
